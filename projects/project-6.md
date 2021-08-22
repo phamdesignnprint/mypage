@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MyProduction-7-1.jpg
+image: images/MyProduction-10.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -12,6 +12,5 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/MyProduction-7-1.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/MyProduction-7-2.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/MyProduction-10.jpg">
 
